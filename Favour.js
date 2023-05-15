@@ -1,0 +1,1 @@
+console.log("Omo! javascript is not for the weak")
