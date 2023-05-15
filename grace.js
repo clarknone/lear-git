@@ -1,5 +1,5 @@
 let person = {
-    name: "Sixtus",
+    name: "Utibe",
     place: {
         country: "Nigeria", 
         city: "Lagos" }, 
