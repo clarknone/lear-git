@@ -1,5 +1,5 @@
 let person = {
-    name: "Sarah",
+    name: "Sixtus",
     place: {
         country: "Nigeria", 
         city: "Lagos" }, 
@@ -9,7 +9,7 @@ let person = {
 let {name:foo,
      place: {
          country : bar,
-         city : x}
+         city : village}
     } = person;
 
 console.log(foo);//"Sarah"
