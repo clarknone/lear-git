@@ -1,16 +1,17 @@
 let person = {
-    name: "Sarah",
+    name: "Utibe",
     place: {
         country: "Nigeria", 
         city: "Lagos" }, 
     friends : ["Annie", "Becky"]
 };
 
-let {name:foo,
+let profile = {
+    name: "Grace",
      place: {
          country : bar,
          city : x}
     } = person;
 
-console.log(foo);//"Sarah"
+console.log(name);//"Sarah"
 console.log(bar);//"Nigeria"
