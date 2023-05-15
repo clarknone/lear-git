@@ -1,1 +1,1 @@
-console.log("Omo! javascript is not for the weak")
+console.log("Omo! javascript is not for the weak, but it is interesting");
